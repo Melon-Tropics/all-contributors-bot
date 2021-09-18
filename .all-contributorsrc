@@ -1,5 +1,5 @@
 {
-  "projectName": "all-contributors-bot",
+  "projectName": "app",
   "projectOwner": "all-contributors",
   "repoType": "github",
   "repoHost": "https://github.com",
@@ -155,6 +155,36 @@
       "name": "LaChapeliere",
       "avatar_url": "https://avatars2.githubusercontent.com/u/7062546?v=4",
       "profile": "https://github.com/LaChapeliere",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "rluvaton",
+      "name": "Raz Luvaton",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16746759?v=4",
+      "profile": "https://github.com/rluvaton",
+      "contributions": [
+        "test",
+        "code",
+        "bug"
+      ]
+    },
+    {
+      "login": "yakkomajuri",
+      "name": "Yakko Majuri",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38760734?v=4",
+      "profile": "http://yakko.tech",
+      "contributions": [
+        "test",
+        "doc"
+      ]
+    },
+    {
+      "login": "ouuan",
+      "name": "Yufan You",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30581822?v=4",
+      "profile": "https://ouuan.github.io/about",
       "contributions": [
         "code"
       ]
